@@ -1,2 +1,2 @@
-# climate-date
-This program is analyzes the wheather station and climate data obtained from NOAA website.
+# Climate Date
+This program analyzes the weather station and climate data obtained from the NOAA website.
